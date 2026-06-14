@@ -1,5 +1,3 @@
-Here's a clean **Markdown (.md) paste-ready version**:
-
 # Multi-Environment Application Deployment Documentation
 
 ## 1. Environment Specifications
