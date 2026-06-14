@@ -1,0 +1,15 @@
+Student Name: Mohd Shahban
+
+Repository URL: https://github.com/sahbu90/MultienvApp.git
+
+Deployment Status: Working
+
+Access URLs:
+
+- Development: http://http://13.235.77.9:3001
+
+- Production: http://13.235.77.9:3002
+
+- Frontend: http://13.235.77.9:3000
+
+Date of Submission: 14-06-2026

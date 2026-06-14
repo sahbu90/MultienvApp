@@ -5,25 +5,23 @@ A full-stack application using Flask for both frontend and backend services, dem
 ## Project Structure
 
 ```text
-multienv/
-├── docker-compose.yml
+MultienvApp/
 ├── backend/
 │   ├── dev/
-│   │   ├── app.py
-│   │   ├── requirements.txt
-│   │   ├── Dockerfile
-│   │   └── .env
+│   │   ├── Dockerfile, app.py, requirements.txt, .env
 │   └── prod/
-│       ├── app.py
-│       ├── requirements.txt
-│       ├── Dockerfile
-│       └── .env
-└── frontend/
-    ├── app.py
-    ├── requirements.txt
-    ├── Dockerfile
-    └── .env
-
+│       ├── Dockerfile, app.py, requirements.txt, .env
+├── frontend/
+│   ├── Dockerfile, package.json, (src/ folders)
+├── evidence/              <-- Create this folder
+│   ├── status.png
+│   ├── connectivity.png
+│   └── browser.png
+├── submission/            <-- Create this folder
+│   └── submission-info.txt
+├── docker-compose.yml
+├── DOCUMENTATION.md       <-- Copy-pasted from above
+└── README.md              <-- A brief version of DOCUMENTATION.md
 ## Environment Configuration
 
 ### Backend Development Environment (.env)
