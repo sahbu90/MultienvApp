@@ -1,10 +1,10 @@
 # MultiEnv Ticket Management System
 
-A full-stack application using Flask for both frontend and backend services, demonstrating environment-specific ticket management.
+A full-stack application using Flask for both frontend and backend services, demonstrating environment-specific ticket management deployed via Docker.
 
 ## Project Structure
 
-```
+```text
 multienv/
 ├── docker-compose.yml
 ├── backend/
@@ -23,7 +23,6 @@ multienv/
     ├── requirements.txt
     ├── Dockerfile
     └── .env
-```
 
 ## Environment Configuration
 
